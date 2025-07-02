@@ -430,14 +430,17 @@ plugins:
     enable: false # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
-    enable: false # Whether to enable
+    enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
-      - name: # audio name
-        artist: # audio artist
-        url: # audio url
-        cover: # audio cover url
-        lrc: # audio cover lrc
+      - name: ❤
+        artist: (●'◡'●)
+        url: http://m801.music.126.net/20250702170236/65b633b3c9e6057edadc21633957e337/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/14169598409/c622/1cd8/966f/0d01230cd946f39bc320b1092f0da29b.m4a?vuutv=3IhtDRApYIlYUF56H7nqlYl2aXkNogRiNfoDyynmAUyP0CP0YUSOX7e5DX8IUsQSb4LPn7CSv1kQ/24+TQFRIRoh4Hhxovq9M3zJKsjbcO0=
+        cover: https://img.picui.cn/free/2025/06/25/685b836b09ff9.png
+      - name: ❤
+        artist: ( •̀ .̫ •́ )✧
+        url: http://m801.music.126.net/20250625140155/be8325d2a011cbf7f4868c45f1dd0416/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/34476530486/a954/634c/d6ed/07263246ebe58e836895d9320d4ef807.m4a?vuutv=8u3wQPtMk/JsLyWHH4S/HFY2P8apie2/7xTToDsiL/8fT3Dg+xhD3muUwR9+s4WNf2DQg0vMHtZVR4aguuhT2GLeaeccbuivnNL6OJCVPdo=
+        cover: https://img.picui.cn/free/2025/06/25/685b836b09ff9.png
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
